@@ -1,4 +1,3 @@
-/*This is a file to import my other css pages*/
+@import url("tableStyle.css");
 @import url("structure.css");
-@import url("tablestyle.css");
 @import url("navstyle.css");
