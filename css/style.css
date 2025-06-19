@@ -1,3 +1,6 @@
+/*This is to call the other css files*/
 @import url("tableStyle.css");
 @import url("structure.css");
 @import url("navstyle.css");
+@import url("imagestyle.css");
+@import url("formstructure.css");
